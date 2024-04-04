@@ -1,1 +1,1 @@
-![Uploading Screenshot 2024-04-04 at 22.07.06.png…]()
+![screenshot](https://github.com/alinapavlyuk/graphics-open-gl-lab-1/blob/main/Run_screenshot.png)
